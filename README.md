@@ -1,2 +1,7 @@
-# ddayumusic
+# fakepplemusic
+
 애플뮤직 웹 따라만들기
+
+### 20230306
+
+          상단바 80% 완성
